@@ -1,8 +1,8 @@
 # Vette tracks
-- [bla](tracks/bla.mp3) @Eelis
-- [Melodic Techno Mix 2016 (Worakls, N'to, 10dens...)](https://www.youtube.com/watch?v=hd5ogmfPQVo) @Eelis
+- [bla](tracks/bla.mp3) eelis
+- [Melodic Techno Mix 2016 (Worakls, N'to, 10dens...)](https://www.youtube.com/watch?v=hd5ogmfPQVo) eelis
 
 # Vatzige tracks
-- [yada](bla) @Terence -@Gielbier @Eelis
-- [ding](dong) @Terence @Gielbier @Eelis
-- [kip](vis) @Daan @Niels
+- [yada](bla) terence -gielbier eelis
+- [ding](dong) terence gielbier eelis
+- [kip](vis) daan niels
