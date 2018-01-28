@@ -1,7 +1,12 @@
-# Vette tracks
-- [bla](tracks/bla.mp3): eelis
-- [Melodic Techno Mix 2016 (Worakls, N'to, 10dens...)](https://www.youtube.com/watch?v=zvWniZtyCic): eelis
-# Vatzige tracks
-- [yada](bla): terence -gielbier eelis
-- [ding](dong): terence gielbier eelis
-- [kip](vis): daan niels
+- [nobody](nothing)
+
+### Vette tracks
+- [bla](http://eel.is/bla.opus): Eelis
+- [N'to - Note Blanche (Official Video)](https://www.youtube.com/watch?v=6fpQtKP92BI): Eelis
+
+# Vatzige tracks: Blub
+- [kip](vis): Jimmy -Eelis
+
+## Wazig lol: Pietje
+- [yada](bla): -Alice
+- [ding](tracks/bla.mp3): Alice -Blub Jimmy
