@@ -119,6 +119,10 @@
 - [Stereotype](https://www.youtube.com/watch?v=l8HFS8Ji7uA)
 - [Oui Mais Non](https://www.youtube.com/watch?v=PM11n6etlO4)
 
+### Victor Ruiz & Alex Stein: Eelis
+- [Cromo](https://www.youtube.com/watch?v=8P-NwoupF9g)
+- [Ghoul](https://www.youtube.com/watch?v=ahrkPESdTfU)
+
 ### Misc individual tracks
 - [Elektrosatan - Minimal Brick](https://www.youtube.com/watch?v=BSM5yxZqxmQ): Eelis
 - [Wareika - Bazar](https://www.youtube.com/watch?v=pGyydDz5Zrw): Eelis
@@ -160,6 +164,8 @@
 - [Undercatt - Camargo](https://www.youtube.com/watch?v=alcTIGzsvd8): Eelis
 - [Undercatt - Venus](https://www.youtube.com/watch?v=d4EzS40SVRk): Eelis
 - [Deniz Bul - Sinovkin](https://www.youtube.com/watch?v=RziLqVeuz7k): Eelis
+- [Julio Navas - Organic - Alex Stein Remix](https://www.youtube.com/watch?v=Ry90Kuqmtxw): Eelis
+- [Hozho - Existential Crisis](https://www.youtube.com/watch?v=wmigME-mjIs): Eelis
 
 ### Misc mixes
 - [Audiomolekül - Road to Nowhere (Melodic Techno Mix)](https://www.youtube.com/watch?v=tPK5Zm3a9bM): Eelis
